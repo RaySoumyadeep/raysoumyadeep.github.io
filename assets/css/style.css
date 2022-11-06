@@ -86,7 +86,7 @@
   padding: 11px 35px;
   background: #fff;
   color: #311b92;
-  border: 2px solid #fff;
+  border: 2px solid black;
   font-weight: 600;
   font-size: 15px;
   letter-spacing: 1px;
@@ -105,7 +105,7 @@
   padding: 11px 35px;
   background: none;
   color: #fff;
-  border: 2px solid #fff;
+  border: 2px solid black;
   font-weight: 600;
   font-size: 15px;
   letter-spacing: 1px;
@@ -325,7 +325,7 @@ h3 {
 }
 
 #intro.section .container {
-  color: white;
+  color: black;
   font-weight: 200;
   left: 0;
   position: absolute;
